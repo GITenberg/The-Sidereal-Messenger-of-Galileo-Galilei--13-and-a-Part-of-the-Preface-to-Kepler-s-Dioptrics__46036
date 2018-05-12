@@ -1,0 +1,49 @@
+_repo: The-Sidereal-Messenger-of-Galileo-Galilei--13-and-a-Part-of-the-Preface-to-Kepler-s-Dioptrics__46036
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Carlos, Edward Stafford
+    gutenberg_agent_id: '43586'
+    url: http://www.gutenberg.org/2009/agents/43586
+covers:
+- cover_type: archival
+  image_path: 46036-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Galilei, Galileo
+    aliases:
+    - Galilei, G. (Galileo)
+    - Galileo
+    birthdate: 1564
+    deathdate: 1642
+    gutenberg_agent_id: '39014'
+    url: http://www.gutenberg.org/2009/agents/39014
+  - agent_name: Kepler, Johannes
+    aliases:
+    - Kepler, John
+    - Kepler, J. (Johannes)
+    - Keppler, Johann
+    - Kepler, Iogann
+    - Kepler, Jan
+    - Kepler, Johann
+    birthdate: 1571
+    deathdate: 1630
+    gutenberg_agent_id: '43585'
+    url: http://www.gutenberg.org/2009/agents/43585
+description: ''
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46036'
+  lccn: '07005111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jupiter (Planet) -- Satellites'
+- !lcsh 'Astronomy -- Early works to 1800'
+- !lcc 'QB'
+title: "The Sidereal Messenger of Galileo Galilei\r\nand a Part of the Preface to\
+  \ Kepler's Dioptrics Containing the Original Account of Galileo's Astronomical Discoveries"
+url: http://www.gutenberg.org/ebooks/46036
