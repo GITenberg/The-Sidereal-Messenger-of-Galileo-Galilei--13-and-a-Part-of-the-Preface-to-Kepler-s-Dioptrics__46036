@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '43585'
     url: http://www.gutenberg.org/2009/agents/43585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46036#The-Sidereal-Messenger-of-Galileo-Galilei--13-and-a-Part-of-the-Preface-to-Kepler-s-Dioptrics_
 gutenberg_issued: '2014-06-19'
 gutenberg_type: Text
 identifiers:
